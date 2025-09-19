@@ -1,4 +1,5 @@
-# 📱 iPhone Calculator Clone
+# 📱 iPhone Calculator App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/33372516-0b4b-41da-989f-3886ff3f9423/deploy-status)](https://app.netlify.com/projects/iphonecalculators/deploys)
 
 A **pixel-perfect clone** of the iPhone calculator built using **TypeScript, HTML, and CSS**.  
 It replicates the design, UI animations, and functionality of the real iOS calculator — right inside your browser.  
