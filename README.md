@@ -31,3 +31,4 @@ It replicates the design, UI animations, and functionality of the real iOS calcu
 - **CSS3** – modern styling with flexbox, variables, transitions  
 
 ---
+
